@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="" alt="math" width="120" height="120">
+  <img src="https://cdn.discordapp.com/attachments/1446981162281996318/1512753549405327551/Download_2.png?ex=6a253d07&is=6a23eb87&hm=dbe5286a51a24ebd74baa747cf539d294a48e2584421759aa2f8ceebbf868547&" alt="math" width="120" height="120">
 
 # Hi, I am keztraa!
 </div>

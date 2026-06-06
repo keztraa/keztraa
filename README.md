@@ -41,13 +41,9 @@
   <img src="https://img.shields.io/badge/IDE-IntelliJ-blue?style=flat-square&logo=jetbrains&logoColor=white" alt="IntelliJ IDEA">
 
   <img src="https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VSCode">
-
-  <img src="https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="YML">
-
-  <img src="https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white" alt="DotFiles">
 </div>
 
 <p align="center">
-  Opinions are my own and are not related to any brand
+  bye
 </p>
 

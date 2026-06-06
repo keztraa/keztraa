@@ -49,6 +49,6 @@
 </div>
 
 <p align="center">
-  bye
+  Feel free to contact me - I'll try to respond to every DM within 24h.
 </p>
 

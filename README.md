@@ -35,7 +35,7 @@
  <br>
 <div align="center">
   <h3>My Tech Stack</h3>
-  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,git" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,rust,git" alt="My Skills" />
 </div>
 
 <div align="center">

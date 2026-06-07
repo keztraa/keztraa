@@ -42,9 +42,9 @@
 
 <div align="center">
 
-<h3>stack</h3>
+<h3></h3>
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nodejs,rust,git" alt="Tech Stack: JavaScript, TypeScript, Java, Python, React, Node.js, Rust, Git" />
+
 
 <br /><br />
 
